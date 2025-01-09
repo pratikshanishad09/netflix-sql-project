@@ -2,4 +2,7 @@
 
 ![Netflix Logo](https://github.com/pratikshanishad09/netflix-sql-project/blob/main/netflix.avif)
 
-## Objective
+## Overview
+This project involves
+
+
