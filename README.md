@@ -16,7 +16,7 @@ The data for this project is sourced from the kaggle dataset:
  > Dataset Link:- (https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Schema
-'''sql
+```sql
 --Netflix Project--
 
 DROP TABLE IF EXISTS netflix;
@@ -45,7 +45,7 @@ FROM netflix;
 SELECT 
    DISTINCT type 
 FROM netflix;
-'''
+```
 
 ## -- 15 Business problems--
 
