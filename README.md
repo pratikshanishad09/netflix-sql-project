@@ -1,3 +1,3 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-[Netlfix Logo]()
+![Netflix Logo]()
